@@ -15,3 +15,12 @@ public class PatternProg1 {
 	}
 
 }
+
+/* Output :
+ * 
+ * 1111
+ * 2222
+ * 3333
+ * 4444
+	
+	*/
